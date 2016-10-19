@@ -1,5 +1,6 @@
 # DES
 
+Nama : Ahmad Ihsanudin
 KELOMPOK 2
 
 Dokumentasi Program :
