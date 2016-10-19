@@ -1,4 +1,4 @@
-# Kriptografi
+# DES
 
 KELOMPOK 2
 
